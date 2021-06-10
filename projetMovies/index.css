@@ -1,0 +1,44 @@
+body {
+  background-color: #333;
+  color: #ddd;
+}
+
+#typetest {
+  font-size: 30pt;
+}
+
+.numero {
+  width: 100%;
+}
+
+.poster {
+  height: 300px;
+  width: 300px;
+  float: left;
+}
+
+.div_poster {
+  width: 300px;
+  height: 300px;
+}
+
+
+.div_description {
+  margin-left: 21%;
+  width: 70%;
+}
+
+.div_language {
+  margin-left: 21%;
+}
+
+.div_media_type {
+  margin-left: 21%;
+  font-weight: bold;
+}
+
+.card {
+  width: 500px;
+  height: 500px;
+  float: left;
+}
